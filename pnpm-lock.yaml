@@ -1,0 +1,27 @@
+lockfileVersion: 5.3
+
+specifiers:
+  '@jxa/global-type': ^1.3.4
+  prettier: ^2.6.1
+
+dependencies:
+  '@jxa/global-type': 1.3.4
+  prettier: 2.6.1
+
+packages:
+
+  /@jxa/global-type/1.3.4:
+    resolution: {integrity: sha512-6q/h8BFsXhuE64d4rjyXBulMOOcw+frPiQ31L+Gu5qgFWCbsd0ysPWglJEFck/R9MwA98ymPXO9ypaAAmltTXQ==}
+    dependencies:
+      '@jxa/types': 1.3.4
+    dev: false
+
+  /@jxa/types/1.3.4:
+    resolution: {integrity: sha512-BKwO4l/NXJUXRBIYWfCOyf3k/pBTzP70h/zx5GkKaAdqpSaCZUhh48ZW16jPUb99f4je2CrtMezppBxREMUgaw==}
+    dev: false
+
+  /prettier/2.6.1:
+    resolution: {integrity: sha512-8UVbTBYGwN37Bs9LERmxCPjdvPxlEowx2urIL6urHzdb3SDq4B/Z6xLFCblrSnE4iKWcS6ziJ3aOYrc1kz/E2A==}
+    engines: {node: '>=10.13.0'}
+    hasBin: true
+    dev: false

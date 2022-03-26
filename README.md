@@ -1,0 +1,5 @@
+## usage
+
+```
+./src/userName.js
+```
